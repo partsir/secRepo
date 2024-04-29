@@ -1,0 +1,1 @@
+mkdir PHP , cd PHP , code . , (index.php) <html> <?php echo "Hello world from a php container"?> </html>
